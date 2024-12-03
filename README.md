@@ -1,8 +1,9 @@
-# React + Vite
+# Redux Toolkit Sayaç Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, [Redux Toolkit](https://redux-toolkit.js.org/) kullanarak temel bir sayaç uygulamasının nasıl oluşturulacağını göstermektedir. Uygulama, bir sayının artırılıp azaltılmasına olanak tanır ve Redux Toolkit kullanımıyla global durum yönetimini sergiler.
 
-Currently, two official plugins are available:
+## Kullanılan Teknolojiler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: UI oluşturmak için
+- **Redux Toolkit**: Durum yönetimi için
+- **React-Redux**: Redux'u React ile entegre etmek için
